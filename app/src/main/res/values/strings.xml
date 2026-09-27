@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KotlinMVC</string>
+    <string name="button">确定</string>
+    <string name="textview">文本框</string>
+    <string name="add_textview">ADD TEXTVIEW</string>
+    <string name="new_textview">This is a new textView:%1$d</string>
+    <string name="lang_c">c</string>
+    <string name="lang_python">python</string>
+    <string name="lang_kotlin">kotlin</string>
+    <string name="lang_java">java</string>
+    <string name="lang_unknown">else</string>
+    <string-array name="list">
+        <item>快速</item>
+        <item>容易</item>
+        <item>学语言</item>
+        <item>面向对象</item>
+    </string-array>
+</resources>
